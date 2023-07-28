@@ -1,7 +1,2 @@
 #!/bin/bash
-echo 
-
-echo "School"
-cd ..
-^C
-ZZ
+echo "The School is open!"
